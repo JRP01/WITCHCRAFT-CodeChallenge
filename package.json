@@ -1,0 +1,19 @@
+{
+  "name": "witchcraft-codechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readIngredientsRules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRP01/WITCHCRAFT-CodeChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRP01/WITCHCRAFT-CodeChallenge/issues"
+  },
+  "homepage": "https://github.com/JRP01/WITCHCRAFT-CodeChallenge#readme"
+}
